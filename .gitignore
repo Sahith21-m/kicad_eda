@@ -1,0 +1,6 @@
+@"
+.history/
+~*.lck
+*.raw
+*.log
+"@ | Set-Content .gitignore

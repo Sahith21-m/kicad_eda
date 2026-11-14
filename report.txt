@@ -1,0 +1,13 @@
+Info: X scale constrained.
+Info: Y scale constrained.
+Plotted to 'C:\Users\SAHIT\OneDrive\Documents\kicad_projects\25EC01021_INV\gerbers\25EC01021_INV-F_Cu.gbr'.
+Plotted to 'C:\Users\SAHIT\OneDrive\Documents\kicad_projects\25EC01021_INV\gerbers\25EC01021_INV-B_Cu.gbr'.
+Plotted to 'C:\Users\SAHIT\OneDrive\Documents\kicad_projects\25EC01021_INV\gerbers\25EC01021_INV-F_Paste.gbr'.
+Plotted to 'C:\Users\SAHIT\OneDrive\Documents\kicad_projects\25EC01021_INV\gerbers\25EC01021_INV-B_Paste.gbr'.
+Plotted to 'C:\Users\SAHIT\OneDrive\Documents\kicad_projects\25EC01021_INV\gerbers\25EC01021_INV-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\SAHIT\OneDrive\Documents\kicad_projects\25EC01021_INV\gerbers\25EC01021_INV-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\SAHIT\OneDrive\Documents\kicad_projects\25EC01021_INV\gerbers\25EC01021_INV-F_Mask.gbr'.
+Plotted to 'C:\Users\SAHIT\OneDrive\Documents\kicad_projects\25EC01021_INV\gerbers\25EC01021_INV-B_Mask.gbr'.
+Plotted to 'C:\Users\SAHIT\OneDrive\Documents\kicad_projects\25EC01021_INV\gerbers\25EC01021_INV-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\SAHIT\OneDrive\Documents\kicad_projects\25EC01021_INV\gerbers\25EC01021_INV-job.gbrjob'.
+Info: Done.
