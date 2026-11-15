@@ -1,0 +1,1 @@
+Changed footprint J3 from 'Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical' to 'Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical': : OK
